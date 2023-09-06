@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+**This is Jeet, a dedicated software engineer who loves turning complex problems into simple solutions through code. With expertise in multiple programming languages and frameworks, I'm a versatile developer. From crafting web applications with elegance using HTML, CSS, and JavaScript, to diving into the backend with Node.js and databases like MongoDB, my passion for learning keeps my skills sharp.**
 <!--
 **itisgj/itisgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
