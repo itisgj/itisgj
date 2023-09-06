@@ -8,5 +8,5 @@
 - 💬 Ask me about Web application based projects.
 - 📫 How to reach me: jeet99@csu.fullerton.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Good at completing tasks prior to deadlines.
+- ⚡ Fun fact: Good at completing tasks prior to deadline.
 
